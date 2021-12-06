@@ -14,3 +14,5 @@ This is feature one.
 
 
 Test git manager.
+
+Fix issue-101
