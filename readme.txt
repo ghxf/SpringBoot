@@ -10,3 +10,7 @@ Test Commit.
 create git branch dev. This is master.
 
 This is feature one.
+
+
+
+Test git manager.
